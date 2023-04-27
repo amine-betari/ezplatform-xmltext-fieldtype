@@ -32,6 +32,7 @@
             "eZ\\Publish\\Core\\REST\\Common\\FieldTypeProcessor\\": "lib/REST/Common/FieldTypeProcessor"
         }
     },
+    "minimum-stability": "stable",
     "autoload-dev": {
         "psr-4": {
             "EzSystems\\EzPlatformXmlTextFieldTypeBundle\\Tests\\": "tests/bundle",
